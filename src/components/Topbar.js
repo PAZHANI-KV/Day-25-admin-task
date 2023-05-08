@@ -291,7 +291,7 @@ function Topbar() {
               style={{ border: "none", background: "none" }}
             >
               <span className="mr-2 d-none d-lg-inline text-gray-600 small">
-                PAZHANI K V
+                PAZHANI KV
               </span>
               <img className="img-profile rounded-circle" src={profileimg} />
             </button>
